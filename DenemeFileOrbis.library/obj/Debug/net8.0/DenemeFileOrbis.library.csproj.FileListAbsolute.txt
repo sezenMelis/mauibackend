@@ -1,0 +1,11 @@
+C:\Users\sezen\DenemeFileOrbis\DenemeFileOrbis.library\bin\Debug\net8.0\DenemeFileOrbis.library.deps.json
+C:\Users\sezen\DenemeFileOrbis\DenemeFileOrbis.library\bin\Debug\net8.0\DenemeFileOrbis.library.dll
+C:\Users\sezen\DenemeFileOrbis\DenemeFileOrbis.library\bin\Debug\net8.0\DenemeFileOrbis.library.pdb
+C:\Users\sezen\DenemeFileOrbis\DenemeFileOrbis.library\obj\Debug\net8.0\DenemeFileOrbis.library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sezen\DenemeFileOrbis\DenemeFileOrbis.library\obj\Debug\net8.0\DenemeFileOrbis.library.AssemblyInfoInputs.cache
+C:\Users\sezen\DenemeFileOrbis\DenemeFileOrbis.library\obj\Debug\net8.0\DenemeFileOrbis.library.AssemblyInfo.cs
+C:\Users\sezen\DenemeFileOrbis\DenemeFileOrbis.library\obj\Debug\net8.0\DenemeFileOrbis.library.csproj.CoreCompileInputs.cache
+C:\Users\sezen\DenemeFileOrbis\DenemeFileOrbis.library\obj\Debug\net8.0\DenemeFileOrbis.library.dll
+C:\Users\sezen\DenemeFileOrbis\DenemeFileOrbis.library\obj\Debug\net8.0\refint\DenemeFileOrbis.library.dll
+C:\Users\sezen\DenemeFileOrbis\DenemeFileOrbis.library\obj\Debug\net8.0\DenemeFileOrbis.library.pdb
+C:\Users\sezen\DenemeFileOrbis\DenemeFileOrbis.library\obj\Debug\net8.0\ref\DenemeFileOrbis.library.dll
